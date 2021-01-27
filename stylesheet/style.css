@@ -3092,3 +3092,6 @@ body.home4 .modalbox-wrapper .close-animatedModal:after {
     font-weight:bold;
     color:#000;
 }
+.img-container {
+    text-align: center;
+  }
