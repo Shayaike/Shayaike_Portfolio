@@ -541,7 +541,7 @@ input::-webkit-input-placeholder {
     margin-bottom: 31px;
 }
 .mg-b32 {
-    margin-bottom: 32px;
+    margin-bottom: 26px;
 }
 .mg-b33 {
     margin-bottom: 33px;
@@ -3094,4 +3094,8 @@ body.home4 .modalbox-wrapper .close-animatedModal:after {
 }
 .img-container {
     text-align: center;
+  }
+
+.p009 {
+    font-size: 26px;
   }
